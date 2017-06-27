@@ -2,5 +2,5 @@
 public class Person {
 
 	// New Class
-	int tst=67;
+	int tst=68;
 }
